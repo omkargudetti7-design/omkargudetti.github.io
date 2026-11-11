@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omkargudetti.github.io/sitemap.xml
